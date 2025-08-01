@@ -7,14 +7,14 @@ body {
 
 header{
     font-size: 80px;
-    border-bottom: double 6px rgb(238, 194, 0);
+    border-bottom: double 6px rgb(0, 255, 242);
     padding: 8px;
     text-align: center;
 }
 
 h1 {
     font-size: 40px;
-    border-bottom: double 5px paleturquoise;
+    border-bottom: double 5px rgb(0, 132, 255);
     text-align: center;
 }
 
